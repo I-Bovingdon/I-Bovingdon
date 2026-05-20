@@ -1,8 +1,9 @@
-Hello there, I'm Ismael 👋
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/8e6864b6-c42d-45b0-9376-08a2b0bd5fed" />
+### Hello there, I'm Ismael 👋
 
 Junior Data Engineer focused on Data, Cloud & Business Intelligence solutions.
 
 Industrial Engineer with previous experience in financial systems, SQL data processing and enterprise environments. Currently working in Business Intelligence while pursuing a Master's degree in Data Science, Big Data & Business Analytics.
 
 Currently working on ETL, BI and cloud-oriented data projects.
+
+![Alt Text]([URL_DEL_GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdvMnk0ajBrMWFwYmtpYjRweW4zbHdtaGt5NDZ4cDVkemZiMjB4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif))
