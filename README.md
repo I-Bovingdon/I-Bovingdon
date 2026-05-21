@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="40%">
 
 ### Hello there, I'm Ismael 👋
 
