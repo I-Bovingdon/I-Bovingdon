@@ -15,7 +15,7 @@ Currently working in Business Intelligence while pursuing a Master's degree in D
 Interested in scalable data architectures, ETL pipelines, cloud technologies and data-driven problem solving.
 
   </td>
-    <td valign="middle" width="55%">
+    <td valign="middle" width="35%">
       <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100%" alt="Hello There"/>
     </td>
   </tr>
