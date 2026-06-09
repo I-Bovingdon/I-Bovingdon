@@ -42,13 +42,10 @@
         </a>
       </p>
       <br/>
-    </td>
-    <td width="50%" valign="middle" align="center" bgcolor="#0D1B2A">
+      <p align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc3NHN5YmczY3JvZnB0OGF1OTdxbnNsYTJwbjN2eHpzaWs4NnUycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" width="55%" alt="Hello There"/>
+      </p>
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc3NHN5YmczY3JvZnB0OGF1OTdxbnNsYTJwbjN2eHpzaWs4NnUycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" width="90%" style="border-radius:12px;" alt="Hello There"/>
-      <br/><br/>
     </td>
   </tr>
 </table>
-
-<br/>
