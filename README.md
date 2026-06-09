@@ -13,7 +13,7 @@
       </p>
       <h3>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"/>
-        &nbsp;Hello, I'm Ismael
+        &nbsp;Hello there!
       </h3>
       <p>
         Junior Data Engineer focused on <strong>Data, Cloud &amp; Business Intelligence</strong> solutions.
@@ -52,8 +52,3 @@
 </table>
 
 <br/>
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1628,0D2137,1A3A5C&height=120&section=footer&text=Remote%20%2F%20Madrid%2C%20Spain&fontSize=16&fontColor=FF8C42&fontAlignY=65" width="100%"/>
-</p>
