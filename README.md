@@ -1,50 +1,41 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Ismael Bovingdon Castillejo — Junior Data Engineer | Cloud | Business Intelligence"/>
-</p>
 
-<!-- INTRO TABLE -->
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td width="50%" valign="top" bgcolor="#0D1B2A" style="padding: 28px 24px; border-radius: 12px;">
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/DATA%20ENGINEERING%20%7C%20CLOUD%20%7C%20BI-FF8C42?style=flat-square&labelColor=FF8C42&color=FF8C42&logoColor=white" />
-      </p>
-      <h3>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"/>
-        &nbsp;Hello there!
-      </h3>
-      <p>
-        Junior Data Engineer focused on <strong>Data, Cloud &amp; Business Intelligence</strong> solutions.
-      </p>
-      <p>
-        Industrial Engineer with previous experience in financial systems, high-volume SQL data processing and enterprise environments.
-      </p>
-      <p>
-        Currently working in Business Intelligence at <strong>Babel</strong>, while pursuing a Master's degree in <em>Data Science, Big Data &amp; Business Analytics</em>.
-      </p>
-      <p>
-        Interested in scalable data architectures, ETL pipelines, cloud technologies and data-driven problem solving.
-      </p>
-      <br/>
-      <p>
-        <a href="https://www.linkedin.com/in/ismael-bovingdon-castillejo-6a775074/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        &nbsp;
-        <a href="https://i-bovingdon.github.io/DataEngineer.com/">
-          <img src="https://img.shields.io/badge/Portfolio-FF8C42?style=for-the-badge&logo=About.me&logoColor=white"/>
-        </a>
-        &nbsp;
-        <a href="mailto:ishmaelbovingdon@gmail.com">
-          <img src="https://img.shields.io/badge/Email-1A3A5C?style=for-the-badge&logo=gmail&logoColor=white"/>
-        </a>
-      </p>
-      <br/>
-      <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjc3NHN5YmczY3JvZnB0OGF1OTdxbnNsYTJwbjN2eHpzaWs4NnUycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif" width="55%" alt="Hello There"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
+![Data Engineering · Cloud · Business Intelligence](assets/banner.svg)
+
+### 👋 Hello there!
+
+**Junior Data Engineer** building ETL pipelines with **Azure Data Factory, SQL and Python** at [Babel](https://babelgroup.com), while completing an **MSc in Data Science, Big Data & Business Analytics** (Universidad Complutense de Madrid).
+
+4 years of background in high-volume financial systems at **BBVA Technology** (DB2/SQL, business-critical batch processing). Interested in **data architecture, distributed processing and cloud solutions**.
+
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚆 [**Cercanías Delay Prediction — 24/7 Data Pipeline**](https://github.com/I-Bovingdon/tfm-cercanias-colectores) | Real-time ingestion pipeline capturing **300,000+ records/day** from RENFE GTFS-RT & AEMET APIs on a Linux VPS. Raw→Parquet medallion architecture, systemd resilience, automated backups. | Python · Parquet · Linux · systemd · cron |
+| 💧 [**Water Pump Failure Prediction + Agentic EDA**](https://github.com/I-Bovingdon/MachineLearning_Pipeline_WaterInfrastructure_Agentic_EDA) | End-to-end ML pipeline for DrivenData's Pump It Up: stacking ensemble scoring **0.8230**, imbalanced-class strategies, LLM-based EDA agent. | scikit-learn · LangGraph · Gradio |
+| 📊 [**Workspace Analytics SQL**](https://github.com/I-Bovingdon/Workspace_Analytics_SQL) | SQL analytics project on workspace usage data. | SQL |
+
+---
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-bovingdon-castillejo-6a775074/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?logo=googlechrome&logoColor=white)](https://i-bovingdon.github.io/DataEngineer.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:ishmaelbovingdon@gmail.com)
